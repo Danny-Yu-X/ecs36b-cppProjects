@@ -1,0 +1,29 @@
+[
+    {
+        "name": "upload",
+        "params": {
+            "updating_json": {}
+        },
+        "returns": {
+            "status": "code"
+        }
+    },
+    {
+        "name": "question",
+        "params": {
+            "question_json": {}
+        },
+        "returns": {
+            "status": "code"
+        }
+    },
+    {
+        "name": "dump2json",
+        "params": {
+            "identity": "a string"
+        },
+        "returns": {
+            "status": "code"
+        }
+    }
+]
