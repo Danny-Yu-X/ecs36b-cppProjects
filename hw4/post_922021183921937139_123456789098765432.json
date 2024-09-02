@@ -1,0 +1,91 @@
+{
+	"actions" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "graph",
+				"host url" : "http://localhost",
+				"name" : "artwork",
+				"object id" : "281418948597993",
+				"owner vsID" : "922021183921937139"
+			}
+		]
+	},
+	"created" : 
+	{
+		"time" : "2020-05-02T16:37:27+0000"
+	},
+	"from" : 
+	{
+		"home" : 
+		{
+			"latitude" : 0.5,
+			"longitude" : 0.5
+		},
+		"name" : "teamJR",
+		"vsID" : "922021183921937139"
+	},
+	"id" : "922021183921937139_123456789098765432",
+	"is published" : true,
+	"keys" : 
+	{
+		"count" : 3,
+		"data" : 
+		[
+			{
+				"key" : "teamJR"
+			},
+			{
+				"key" : "ecs36b"
+			},
+			{
+				"key" : "final"
+			}
+		]
+	},
+	"links" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "calculator",
+				"host url" : "http://localhost",
+				"object id" : "098765432123456768799",
+				"owner vsID" : "922021183921937139",
+				"url" : "desmos.com/calculator"
+			}
+		]
+	},
+	"location" : 
+	{
+		"latitude" : 0.5,
+		"longitude" : 0.5
+	},
+	"message" : 
+	{
+		"content" : "Introducing a real-time collaborative graphing tool for interactive learning. During a virtual math class, the teacher creates a graph and invites students to collaborate. Students can add their points, draw lines, and annotate areas they find difficult. This tool allows for real-time updates, ensuring that every participant sees changes instantly. It supports various types of graphs including line, bar, and scatter plots. Teachers can use this tool to visually explain concepts, and students can interact with the graphs to better understand the material. The tool also includes features like version control to track changes, export options to save the final graph, and interactive widgets to manipulate graph parameters dynamically. With this tool, learning becomes more engaging and effective as it enables students to see immediate results of their inputs and corrections. It also fosters teamwork as multiple students can work together on the same graph, adding different elements and discussing their findings in real-time."
+	},
+	"to" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"home" : 
+				{
+					"latitude" : 0.5,
+					"longitude" : 0.5
+				},
+				"name" : "teamJR",
+				"vsID" : "922021183921937139"
+			}
+		]
+	},
+	"updated" : 
+	{
+		"time" : "2024-06-05T16:45:18+0000"
+	}
+}

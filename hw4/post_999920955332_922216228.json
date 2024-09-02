@@ -1,0 +1,91 @@
+{
+	"actions" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "action",
+				"host url" : "https://ethikos.ngrok.io/",
+				"name" : "whatever",
+				"object id" : "281834734597993",
+				"owner vsID" : "66128718274163598124987187498"
+			}
+		]
+	},
+	"created" : 
+	{
+		"time" : "2020-05-02T16:37:27+0000"
+	},
+	"from" : 
+	{
+		"home" : 
+		{
+			"latitude" : 0.10000000000000001,
+			"longitude" : 0.20000000000000001
+		},
+		"name" : "Mostima_Bowei",
+		"vsID" : "999920955332"
+	},
+	"id" : "999920955332_922216228",
+	"is published" : true,
+	"keys" : 
+	{
+		"count" : 3,
+		"data" : 
+		[
+			{
+				"key" : "teamOne"
+			},
+			{
+				"key" : "ecs36b"
+			},
+			{
+				"key" : "final"
+			}
+		]
+	},
+	"links" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "photo",
+				"host url" : "https://ethikos.ngrok.io/",
+				"object id" : "28141894859030137993",
+				"owner vsID" : "999920955332",
+				"url" : "https://docs.google.com/document/d/1HN0JwBLtCgOajcULoG8IkNvIHeeEqGuakplbszidcSM/edit?usp=sharing"
+			}
+		]
+	},
+	"location" : 
+	{
+		"latitude" : 0.10000000000000001,
+		"longitude" : 0.20000000000000001
+	},
+	"message" : 
+	{
+		"content" : "nothing"
+	},
+	"to" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "teamOne",
+				"vsID" : "999920955332"
+			}
+		]
+	},
+	"updated" : 
+	{
+		"time" : "2020-05-02T16:45:18+0000"
+	}
+}

@@ -1,0 +1,91 @@
+{
+	"actions" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "action",
+				"host url" : "http://localhost",
+				"name" : "RSVP",
+				"object id" : "202468948597993",
+				"owner vsID" : "11032005020520050513"
+			}
+		]
+	},
+	"created" : 
+	{
+		"time" : "2020-05-02T16:37:27+0000"
+	},
+	"from" : 
+	{
+		"home" : 
+		{
+			"latitude" : 0.10000000000000001,
+			"longitude" : 0.20000000000000001
+		},
+		"name" : "Jannah_Jessica_Lucyf",
+		"vsID" : "11032005020520050513"
+	},
+	"id" : "11032005020520050513_2002",
+	"is published" : true,
+	"keys" : 
+	{
+		"count" : 3,
+		"data" : 
+		[
+			{
+				"key" : "Jannah_Jessica_Youngil(Lucy)"
+			},
+			{
+				"key" : "ecs36b"
+			},
+			{
+				"key" : "final"
+			}
+		]
+	},
+	"links" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "Google Docs",
+				"host url" : "http://localhost",
+				"object id" : "202468948597993",
+				"owner vsID" : "11032005020520050513",
+				"url" : "https://docs.google.com/document/d/13NwKpY8QmxSXjuS_MM932cE5GUgChwh3xJFpZjYcI4U/edit?usp=sharing"
+			}
+		]
+	},
+	"location" : 
+	{
+		"latitude" : 0.10000000000000001,
+		"longitude" : 0.20000000000000001
+	},
+	"message" : 
+	{
+		"content" : "Team T: Mahyar Saadati, Anas Joyo, Venkata Patri........This is a great idea and very practical. Below are some suggestions to refine and improve your RSVP feature idea further. To enhance the RSVP feature, ensure the RSVP class inherits from Post and includes attributes like rsvpOn and responses. Implement methods for adding and retrieving responses, with robust validation and custom exception handling for invalid inputs. Integrate the RSVP functionality with JSON serialization and deserialization, and design the user interface to show RSVP options clearly. Additional features like response deadlines, a reminder system, and a summary view for responses can further improve the feature, making it more user-friendly and efficient for event planning."
+	},
+	"to" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "Prof",
+				"vsID" : "11032005020520050513"
+			}
+		]
+	},
+	"updated" : 
+	{
+		"time" : "2020-05-02T16:45:18+0000"
+	}
+}

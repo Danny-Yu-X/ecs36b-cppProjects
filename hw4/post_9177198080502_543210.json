@@ -1,0 +1,94 @@
+{
+	"actions" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "action",
+				"host url" : "http://localhost",
+				"name" : "love",
+				"object id" : "12023",
+				"owner vsID" : "9177198080502"
+			}
+		]
+	},
+	"created" : 
+	{
+		"time" : "2024-06-15T21:35:00+0000"
+	},
+	"from" : 
+	{
+		"home" : 
+		{
+			"latitude" : 36.0,
+			"longitude" : 120.0
+		},
+		"name" : "HenryLi",
+		"vsID" : "9177198080502"
+	},
+	"id" : "9177198080502_543210",
+	"is published" : true,
+	"keys" : 
+	{
+		"count" : 4,
+		"data" : 
+		[
+			{
+				"key" : "HL"
+			},
+			{
+				"key" : "ecs36b"
+			},
+			{
+				"key" : "final"
+			},
+			{
+				"key" : "nobody_else_uses_this_key_for_sure"
+			}
+		]
+	},
+	"links" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "final",
+				"host url" : "http://localhost",
+				"object id" : "12023",
+				"owner vsID" : "9177198080502",
+				"url" : "https://docs.google.com/document/d/1J60nxIDRMTS8vTAzE0t8Bl-1el0M2gRqA_FTU26KPoQ/edit?usp=sharing"
+			}
+		]
+	},
+	"location" : 
+	{
+		"latitude" : 38.5,
+		"longitude" : -121.0
+	},
+	"message" : 
+	{
+		"content" : "Idea by Henry Li (917719808). A unique feature that could be added to our post system is a 'Mood Analyzer.' This feature would analyze the text of a post and provide a mood score, indicating if the post is positive, negative, neutral, or others. This could be implemented using simple Natural Language Processing techniques, along with specifically trained artificial intelligence, and would add unique ways for admins to filter posts on the back end and for users to interact with the posts. With the mood scores available on the back end, extreme mood values or sudden changes in mood could help identify users in a depressed or violent state, potentially preventing suicide or school shootings. This serves as a safety measure, allowing for timely intervention when necessary. For users, mood scores can provide a computational visualization of their mood change over time. This is where the idea inspired by Apple's mindfulness app comes in. Just as the app asks users to input their mood and tracks it over time, our post system could analyze the mood of each post and generate a graph of mood progression. Each point on the graph could be linked to the corresponding post, allowing users to reflect on what they were feeling at the time of each post. Users could agree with the analyzed mood or manually make changes if they feel it doesn't accurately represent their feelings. This feature not only adds an element of fun and self-reflection for users but also serves as a tool for them to track their emotional well-being. All of these stated functions using the mood analyzer are easily programmable and can be implemented both on the back end for safety reasons and on the front end for user engagement. Read more about pseudocode and implementation in the link provided."
+	},
+	"to" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"home" : 
+				{
+					"latitude" : 36.0,
+					"longitude" : 120.0
+				},
+				"name" : "HenryLi",
+				"vsID" : "9177198080502"
+			}
+		]
+	},
+	"updated" : 
+	{
+		"time" : "2024-06-15T21:35:00+0000"
+	}
+}

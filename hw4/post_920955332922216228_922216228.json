@@ -1,0 +1,94 @@
+{
+	"actions" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "action",
+				"host url" : "http://localhost",
+				"name" : "whatever",
+				"object id" : "281418948597993",
+				"owner vsID" : "920955332922216228"
+			}
+		]
+	},
+	"created" : 
+	{
+		"time" : "2020-05-02T16:37:27+0000"
+	},
+	"from" : 
+	{
+		"home" : 
+		{
+			"latitude" : 0.10000000000000001,
+			"longitude" : 0.20000000000000001
+		},
+		"name" : "teamOne",
+		"vsID" : "920955332922216228"
+	},
+	"id" : "920955332922216228_922216228",
+	"is published" : true,
+	"keys" : 
+	{
+		"count" : 4,
+		"data" : 
+		[
+			{
+				"key" : "teamOne"
+			},
+			{
+				"key" : "ecs36b"
+			},
+			{
+				"key" : "final"
+			},
+			{
+				"key" : "Team Jia and Jazymen"
+			}
+		]
+	},
+	"links" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "Google Docs",
+				"host url" : "http://localhost",
+				"object id" : "281418948597993",
+				"owner vsID" : "920955332922216228",
+				"url" : "https://docs.google.com/document/d/1HN0JwBLtCgOajcULoG8IkNvIHeeEqGuakplbszidcSM/edit?usp=sharing"
+			}
+		]
+	},
+	"location" : 
+	{
+		"latitude" : 0.10000000000000001,
+		"longitude" : 0.20000000000000001
+	},
+	"message" : 
+	{
+		"content" : "This is from Team Jia and Jazymen (922171444): This idea of creating customized digital posts for each pharmacy order is commendable for its potential to streamline the prescription management process and enhance patient safety. By organizing orders with unique patient IDs, the system minimizes the risk of losing important information amidst physical paperwork and reduces the chances of external manipulation. This digital approach not only ensures quick retrieval of orders but also improves efficiency in a busy pharmacy setting. To further enhance this idea, consider integrating features like automated reminders for patients about upcoming pickups and expiring prescriptions. Additionally, implementing a secure, user-friendly patient portal where individuals can view their orders, track the status of their medications, and communicate directly with the pharmacy can greatly improve patient engagement and satisfaction."
+	},
+	"to" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "teamOne",
+				"vsID" : "920955332922216228"
+			}
+		]
+	},
+	"updated" : 
+	{
+		"time" : "2020-05-02T16:37:27+0000"
+	}
+}

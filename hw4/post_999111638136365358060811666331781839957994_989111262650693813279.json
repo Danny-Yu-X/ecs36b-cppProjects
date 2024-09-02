@@ -1,0 +1,94 @@
+{
+	"actions" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "action",
+				"host url" : "http://localhost",
+				"name" : "whatever",
+				"object id" : "281418948597993",
+				"owner vsID" : "112638136365359060811666331781839957994"
+			}
+		]
+	},
+	"created" : 
+	{
+		"time" : "2020-05-02T16:37:27+0000"
+	},
+	"from" : 
+	{
+		"home" : 
+		{
+			"latitude" : 0.10000000000000001,
+			"longitude" : 0.20000000000000001
+		},
+		"name" : "Team Tal",
+		"vsID" : "999111112638136365359060811666331781839957994"
+	},
+	"id" : "999111638136365358060811666331781839957994_989111262650693813279",
+	"is published" : true,
+	"keys" : 
+	{
+		"count" : 4,
+		"data" : 
+		[
+			{
+				"key" : "Team Tal"
+			},
+			{
+				"key" : "ecs36b"
+			},
+			{
+				"key" : "final"
+			},
+			{
+				"key" : "Liam and Ahmad"
+			}
+		]
+	},
+	"links" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "test",
+				"host url" : "http://localhost",
+				"object id" : "382587644597893",
+				"owner vsID" : "999111112638136365359060811666331781839957994",
+				"url" : "nowhere"
+			}
+		]
+	},
+	"location" : 
+	{
+		"latitude" : 0.10000000000000001,
+		"longitude" : 0.20000000000000001
+	},
+	"message" : 
+	{
+		"content" : "Team Tal (Liam McCoy and Ahmad Morrar). Whenever there is some kind of online network, one of the first problems one would encounter is getting rid of people acting inappropriately. This can be remedied by implementing a banning system.   As was stated in class, there is no verification mechanism for the server. This means someone can pretend to be someone else and wreak absolute chaos without preventative measures in place. Additionally, someone may try to upload posts that are inappropriate for the context of class. Implementing an ip ban would essentially prevent future behavior of this sort from that user.\t\tThe best way to implement a ban using this server would be to utilize the ip address the server stores. If whoever is in control of the server notices bad behavior they could ban someone by adding their ip address to some sort of array. The array would likely need to be sorted for cross referencing purposes later, and it would also need to be preserved in some sort of form, like a txt file for the sake of permanence. Whenever a user tries to upload, the server could check if the ip address of the user attempting the upload matches any of the stored banned ips. If it does, the server would not accept the upload from the user."
+	},
+	"to" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "Team Tal",
+				"vsID" : "112638136365359060811666331881839957994"
+			}
+		]
+	},
+	"updated" : 
+	{
+		"time" : "2020-05-02T16:45:18+0000"
+	}
+}

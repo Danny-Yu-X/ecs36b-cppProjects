@@ -1,0 +1,91 @@
+{
+	"actions" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "action",
+				"host url" : "http://localhost",
+				"name" : "JackyHamim",
+				"object id" : "78341298749812789473219879",
+				"owner vsID" : "920807105922006234"
+			}
+		]
+	},
+	"created" : 
+	{
+		"time" : "2022-05-02T16:37:27+0000"
+	},
+	"from" : 
+	{
+		"home" : 
+		{
+			"latitude" : 0.10000000000000001,
+			"longitude" : 0.20000000000000001
+		},
+		"name" : "Jacky Chen, Hamim Sadikeen",
+		"vsID" : "920807105922006234"
+	},
+	"id" : "920807105_922006234",
+	"is published" : true,
+	"keys" : 
+	{
+		"count" : 3,
+		"data" : 
+		[
+			{
+				"key" : "TheRealJackyHamimTeam"
+			},
+			{
+				"key" : "ecs36b"
+			},
+			{
+				"key" : "final"
+			}
+		]
+	},
+	"links" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "Placeholder",
+				"host url" : "http://localhost",
+				"object id" : "9834895983498",
+				"owner vsID" : "4273890256323289",
+				"url" : "https://www.google.com"
+			}
+		]
+	},
+	"location" : 
+	{
+		"latitude" : 0.10000000000000001,
+		"longitude" : 0.20000000000000001
+	},
+	"message" : 
+	{
+		"content" : "From TeamJackyHamim [Jacky (920807105) and Hamim (922006234)]:  Sometimes people do not know how to use JSON and they would still like to make a post or comment on another person`s post. Our idea was to add some functionality to the ecs36bupdate program where the program can ask a long series of questions, in which the user will answer the questions and the program will check for if the answer is properly formatted. The program will then generate a JSON containing the necessary information to make a post or a comment. This functionality will be useful for people who know JSON as well as having a program control the input flow for JSON can ensure that a post can be made without worrying about the formatting of a JSON file or having to deal with fixing exceptions. In order to do this, we add more classes to the ecs36bupdate program. For example, we could create a `Question` class derived from `Comment` and an `Answer` class derived from `Reaction`. Instead of tracking the author and identifiers, the Question object will mainly output prompts with Messages. For example, the Message could ask what the id string should be. The Answer object can have a new string variable which tracks the user`s response to Questions. To check whether an Answer is valid or not, the program could check to see if an exception will be thrown given the specific Question asked. For example, in the case of the id string, if the user`s answer was a boolean, then an exception would be thrown and the program will ask to reinput a valid answer. All of the information can be stored into a JSON class and the dump2json functionality can be used to generate a good JSON to be sent and make a post. The program would work if the user wants to make their own post, or if they just want to comment. For comments, the program will ask which post they would like to comment on. For example, a Question can display a Message prompting to input the id or keywords for the post the user wants to comment on. The user can then type out their comment as a string and the program can format it accordingly as a new comment element and insert it into the post JSON."
+	},
+	"to" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "Professor Felix Wu",
+				"vsID" : "8734179283748972978472398749320503209382411"
+			}
+		]
+	},
+	"updated" : 
+	{
+		"time" : "2024-05-02T16:45:18+0000"
+	}
+}

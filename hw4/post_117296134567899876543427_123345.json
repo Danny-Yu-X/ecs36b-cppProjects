@@ -1,0 +1,104 @@
+{
+	"actions" : 
+	{
+		"count" : 2,
+		"data" : 
+		[
+			{
+				"class name" : "action",
+				"host url" : "http://localhost",
+				"name" : "DesiAggies",
+				"object id" : "23423234235242335637893",
+				"owner vsID" : "233443453645566778987654"
+			},
+			{
+				"class name" : "Action",
+				"host url" : "http://localhost",
+				"name" : "default",
+				"object id" : "23423234235242335637893",
+				"owner vsID" : "233443453645566778987654"
+			}
+		]
+	},
+	"created" : 
+	{
+		"time" : "2024-06-01T16:37:27+0000"
+	},
+	"from" : 
+	{
+		"home" : 
+		{
+			"latitude" : 0.10000000000000001,
+			"longitude" : 0.20000000000000001
+		},
+		"name" : "DesiAggies",
+		"vsID" : "117296134567899876543427"
+	},
+	"id" : "117296134567899876543427_123345",
+	"is published" : true,
+	"keys" : 
+	{
+		"count" : 5,
+		"data" : 
+		[
+			{
+				"key" : "DesiAggies"
+			},
+			{
+				"key" : "ecs36b"
+			},
+			{
+				"key" : "final"
+			},
+			{
+				"key" : "Ramsha Tasneem"
+			},
+			{
+				"key" : "Liza Tinku Jose"
+			}
+		]
+	},
+	"links" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "Final",
+				"host url" : "https://ethikos.ngrok.io",
+				"object id" : "5678928146189485979393",
+				"owner vsID" : "23456711266438136365359060811666331781839957994",
+				"url" : "https://docs.google.com/document/d/1Xo66pfwxJ3lRtFxDxL5f6RskBqvTbnVWa-f4vP3MIlM/edit?usp=sharing"
+			}
+		]
+	},
+	"location" : 
+	{
+		"latitude" : 0.10000000000000001,
+		"longitude" : 0.20000000000000001
+	},
+	"message" : 
+	{
+		"content" : "Our idea for the final submission is privacy controls for posts and comments. (Public= Anyone, Friends= Who you follow/friend, Private= Just you, None). This can be used to control who can see and who can comment on your post separately. You can also block an id to block someone from commenting on your post."
+	},
+	"to" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "DesiAggies",
+				"vsID" : "117296134567899876543427"
+			}
+		]
+	},
+	"updated" : 
+	{
+		"time" : "2024-06-01T16:37:27+0000"
+	}
+}

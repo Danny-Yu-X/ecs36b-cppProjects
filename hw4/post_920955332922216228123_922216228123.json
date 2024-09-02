@@ -1,0 +1,91 @@
+{
+	"actions" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "action",
+				"host url" : "http://localhost",
+				"name" : "whatever",
+				"object id" : "281418948597993",
+				"owner vsID" : "920955332922216228123"
+			}
+		]
+	},
+	"created" : 
+	{
+		"time" : "2020-05-02T16:37:27+0000"
+	},
+	"from" : 
+	{
+		"home" : 
+		{
+			"latitude" : 0.10000000000000001,
+			"longitude" : 0.20000000000000001
+		},
+		"name" : "teamOne",
+		"vsID" : "920955332922216228123"
+	},
+	"id" : "920955332922216228123_922216228123",
+	"is published" : true,
+	"keys" : 
+	{
+		"count" : 3,
+		"data" : 
+		[
+			{
+				"key" : "teamOne"
+			},
+			{
+				"key" : "ecs36b"
+			},
+			{
+				"key" : "final"
+			}
+		]
+	},
+	"links" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "Google Docs",
+				"host url" : "http://localhost",
+				"object id" : "281418948597993",
+				"owner vsID" : "920955332922216228123",
+				"url" : "https://docs.google.com/document/d/1HN0JwBLtCgOajcULoG8IkNvIHeeEqGuakplbszidcSM/edit?usp=sharing"
+			}
+		]
+	},
+	"location" : 
+	{
+		"latitude" : 0.10000000000000001,
+		"longitude" : 0.20000000000000001
+	},
+	"message" : 
+	{
+		"content" : "Currently Nothing."
+	},
+	"to" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "teamOne",
+				"vsID" : "920955332922216228123"
+			}
+		]
+	},
+	"updated" : 
+	{
+		"time" : "2020-05-02T16:37:27+0000"
+	}
+}

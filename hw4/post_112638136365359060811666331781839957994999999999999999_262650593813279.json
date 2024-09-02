@@ -1,0 +1,112 @@
+{
+	"actions" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "action",
+				"host url" : "http://localhost",
+				"name" : "Justus",
+				"object id" : "2814189485979937",
+				"owner vsID" : "1126381363653590608116663317818399579944"
+			}
+		]
+	},
+	"created" : 
+	{
+		"time" : "2020-05-02T16:37:27+0000"
+	},
+	"from" : 
+	{
+		"home" : 
+		{
+			"latitude" : 0.10000000000000001,
+			"longitude" : 0.20000000000000001
+		},
+		"name" : "Justus",
+		"vsID" : "112638136365359060811666331781839957994999999999999999"
+	},
+	"id" : "112638136365359060811666331781839957994999999999999999_262650593813279",
+	"is published" : true,
+	"keys" : 
+	{
+		"count" : 4,
+		"data" : 
+		[
+			{
+				"key" : "Alpha"
+			},
+			{
+				"key" : "ecs36b"
+			},
+			{
+				"key" : "final"
+			},
+			{
+				"key" : "Justus"
+			}
+		]
+	},
+	"links" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "photo",
+				"host url" : "http://localhost",
+				"object id" : "2814189485979937",
+				"owner vsID" : "1126381363653590608116663317818399579944",
+				"url" : "https://docs.google.com/document/d/1BW-UpG9SPqdnA1kBs7VuxigqYUhEVvOte5VjPUSmm4A/edit"
+			}
+		]
+	},
+	"location" : 
+	{
+		"latitude" : 0.10000000000000001,
+		"longitude" : 0.20000000000000001
+	},
+	"message" : 
+	{
+		"content" : "Final"
+	},
+	"to" : 
+	{
+		"count" : 3,
+		"data" : 
+		[
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "Alpha",
+				"vsID" : "112638136365359060811666331781839957994922766639"
+			},
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "Alpha",
+				"vsID" : "1126381363653590608116663317818399579949227666394"
+			},
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "Justus",
+				"vsID" : "112638136365359060811666331781839957994999999999999999"
+			}
+		]
+	},
+	"updated" : 
+	{
+		"time" : "2020-05-02T16:45:18+0000"
+	}
+}

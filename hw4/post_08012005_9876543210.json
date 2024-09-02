@@ -1,0 +1,116 @@
+{
+	"actions" : 
+	{
+		"count" : 2,
+		"data" : 
+		[
+			{
+				"class name" : "action",
+				"host url" : "http://localhost",
+				"name" : "whatever",
+				"object id" : "281418948597993",
+				"owner vsID" : "112638136365359060811666331781839957994"
+			},
+			{
+				"class name" : "action",
+				"host url" : "https://ethikos.ngrok.io",
+				"name" : "Sanjith Iype, Kanvar Sidhu",
+				"object id" : "08012005",
+				"owner vsID" : "080120052024"
+			}
+		]
+	},
+	"created" : 
+	{
+		"time" : "2024-06-14T16:37:27+0000"
+	},
+	"from" : 
+	{
+		"home" : 
+		{
+			"latitude" : 0.10000000000000001,
+			"longitude" : 0.20000000000000001
+		},
+		"name" : "Sanjith Iype, Kanvar Sidhu",
+		"vsID" : "080120052024"
+	},
+	"id" : "08012005_9876543210",
+	"is published" : true,
+	"keys" : 
+	{
+		"count" : 6,
+		"data" : 
+		[
+			{
+				"key" : "Sanjith Iype, Kanvar Sidhu"
+			},
+			{
+				"key" : "ecs36b"
+			},
+			{
+				"key" : "final"
+			},
+			{
+				"key" : "teacher"
+			},
+			{
+				"key" : "graduates"
+			},
+			{
+				"key" : "college"
+			}
+		]
+	},
+	"links" : 
+	{
+		"count" : 1,
+		"data" : 
+		[
+			{
+				"class name" : "link",
+				"host url" : "https://ethikos.ngrok.io",
+				"object id" : "08012005",
+				"owner vsID" : "080120052024",
+				"url" : "https://docs.google.com/document/d/1myphHqJ0NA204tMro5FhbgPIofK6MnL8JX_DKMFYIJc/edit?usp=sharing"
+			}
+		]
+	},
+	"location" : 
+	{
+		"latitude" : 0.10000000000000001,
+		"longitude" : 0.20000000000000001
+	},
+	"message" : 
+	{
+		"content" : "Open the link provided to see the proposal! For Prof. Wu: The name of this file is the same as the hw4, with final added to it. The team is Sanjith Iype and Kanvar Sidhu and our IDs are 922364264 and 922390160 respectively, I have emailed it to you as a back up. Thanks!)"
+	},
+	"to" : 
+	{
+		"count" : 2,
+		"data" : 
+		[
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "Sanjith Iype, Kanvar Sidhu",
+				"vsID" : "92867_922397118"
+			},
+			{
+				"home" : 
+				{
+					"latitude" : 0.10000000000000001,
+					"longitude" : 0.20000000000000001
+				},
+				"name" : "professor Wu",
+				"vsID" : "19459185461977392406"
+			}
+		]
+	},
+	"updated" : 
+	{
+		"time" : "2024-06-14T16:45:18+0000"
+	}
+}
