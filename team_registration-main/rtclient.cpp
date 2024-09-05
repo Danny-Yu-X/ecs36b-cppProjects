@@ -18,9 +18,9 @@ main(void)
   Json::Value my_json;
   Json::Value result;
 
-  my_json["team name"] = "iandanny"; // replace this with your own team name
-  my_json["students"][0] = "921852968";  // student ID 1
-  my_json["students"][1] = "922205543";  // student ID 2
+  my_json["team name"] = ""; // replace this with your own team name
+  my_json["students"][0] = "";  // student ID 1
+  my_json["students"][1] = "";  // student ID 2
 
   //std::cout << my_json.toStyledString() << std::endl
 
